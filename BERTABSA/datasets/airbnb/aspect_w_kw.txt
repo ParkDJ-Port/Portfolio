@@ -1,0 +1,5 @@
+location,supermarket,taxi,route,seaport
+facilities,restaurant,hospital,starbucks,aquarium
+service,pickup,policy,cancellation,payment
+mood,stylish,dirty,charming,luxurious,smell
+host,rude,apologize,ignored,nice
