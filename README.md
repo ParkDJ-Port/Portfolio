@@ -2,7 +2,7 @@
 
 ### Airbnb_ABAE
 
-- Airbnb 호스트 Description을 ABAE를 통해 속성 추출하는 코드
+- Airbnb 호스트 Description을 ABAE를 통해 속성 추출 코드
 
 
 ### BERTABSA
