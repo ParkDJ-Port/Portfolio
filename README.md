@@ -2,7 +2,7 @@
 
 ### Airbnb_ABAE
 
-- Airbnb 호스트 Description을 ABAE를 통해 속성 추출 코드
+- Airbnb분석 전 Restaurant데이터를 이용한 Seed word를 활용한 ABAE 코드
 
 
 ### BERTABSA
